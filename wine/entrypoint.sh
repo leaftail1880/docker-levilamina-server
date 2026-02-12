@@ -5,6 +5,7 @@ stty size cols 200
 export HOME=/data
 export WINEPREFIX=/data/.wine
 export XDG_RUNTIME_DIR=/data/.tmp
+export LANG=ru_RU.UTF-8
 
 VERSION="${VERSION:-LATEST}"
 
