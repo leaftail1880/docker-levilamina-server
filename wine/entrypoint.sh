@@ -1,6 +1,6 @@
 #! /usr/bin/env sh
 
-stty size cols 80
+stty size cols 200
 
 export HOME=/data
 export WINEPREFIX=/data/.wine
